@@ -42,7 +42,7 @@ public class RadarEventHandlerController {
     public void  on(RadarCreatedEvent event, EventMessage<RadarCreatedEvent> eventMessage){
   //      System.out.println("*********************"+event.getPayload().getRadarId());
        Radar radar = radarMapper.fromRadarD(event.getPayload());
-      radar.setId(event.getId());
+       radar.setId(event.getId());
 
         radarRepository.save(radar);
 
