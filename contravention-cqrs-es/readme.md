@@ -6,6 +6,7 @@
 
 ![](screens/img_2.png)
 
+
 # Contravention core api
 ![](screens/img_10.png)
 
@@ -57,3 +58,15 @@
 
 # Assign role
 ![](screens/img_19.png)
+
+# Response without authentication
+![](screens/img_20.png)
+
+# Get Token
+![](screens/img_21.png)
+
+# Front End
+![](screens/front0.jpeg)
+![](screens/frontadd.jpeg)
+![](screens/front1.jpeg)
+![](screens/front2.jpeg)
