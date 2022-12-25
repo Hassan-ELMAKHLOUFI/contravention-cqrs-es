@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/contrav-core-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/radars-auto/radars-auto-cmd-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/radars-auto/radars-auto-cmd-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/radars-auto/radars-auto-query-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/radars-auto/radars-auto-query-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/radars-auto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/radars-auto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/vehicle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/vehicle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/vehicle/vehicle-cmd-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/vehicle/vehicle-cmd-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/vehicle/vehicle-query-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contravention-cqrs-es/vehicle/vehicle-query-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

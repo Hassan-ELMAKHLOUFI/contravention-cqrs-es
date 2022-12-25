@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/contravention-cqrs-es/contrav-core-api/contrav-core-api.iml" filepath="$PROJECT_DIR$/contravention-cqrs-es/contrav-core-api/contrav-core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contravention-cqrs-es/contravention-cqrs-es.iml" filepath="$PROJECT_DIR$/contravention-cqrs-es/contravention-cqrs-es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contravention-cqrs-es/radars-auto/radars-auto.iml" filepath="$PROJECT_DIR$/contravention-cqrs-es/radars-auto/radars-auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contravention-cqrs-es/radars-auto/radars-auto-cmd-service/radars-auto-cmd-service.iml" filepath="$PROJECT_DIR$/contravention-cqrs-es/radars-auto/radars-auto-cmd-service/radars-auto-cmd-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contravention-cqrs-es/radars-auto/radars-auto-query-service/radars-auto-query-service.iml" filepath="$PROJECT_DIR$/contravention-cqrs-es/radars-auto/radars-auto-query-service/radars-auto-query-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contravention-cqrs-es/vehicle/vehicle.iml" filepath="$PROJECT_DIR$/contravention-cqrs-es/vehicle/vehicle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contravention-cqrs-es/vehicle/vehicle-cmd-service/vehicle-cmd-service.iml" filepath="$PROJECT_DIR$/contravention-cqrs-es/vehicle/vehicle-cmd-service/vehicle-cmd-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contravention-cqrs-es/vehicle/vehicle-query-service/vehicle-query-service.iml" filepath="$PROJECT_DIR$/contravention-cqrs-es/vehicle/vehicle-query-service/vehicle-query-service.iml" />
+    </modules>
+  </component>
+</project>
